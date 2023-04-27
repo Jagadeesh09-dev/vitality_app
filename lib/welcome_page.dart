@@ -20,7 +20,7 @@ class _WelcomePageState extends State<WelcomePage> {
             children: [
               Container(margin: const EdgeInsets.only(bottom: 30.0, right: 50.0, left: 50.0), child: Image.asset('assets/images/vitality.png')),
               const Text(
-                'Welcome1 Jagadeesh!',
+                'Welcome Jagadeesh!',
                 style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white, fontSize: 20.0),
               ),
             ],
